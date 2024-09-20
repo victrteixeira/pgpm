@@ -11,8 +11,12 @@
             "id": "91a08d9b0bf079e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "lgpd/Lei Geral de Proteção de Dados.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lgpd/Lei Geral de Proteção de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lgpd/Lei Geral de Proteção de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "lgpd/Lei Geral de Proteção de Dados.md"
+              }
             }
           }
         ]
@@ -138,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0559deba33aa704",
+  "active": "91a08d9b0bf079e7",
   "lastOpenFiles": [
-    "README.md"
+    "Pasted image 20240918220343.png",
+    "lgpd/Privacidade e Proteção de Dados.md",
+    "lgpd/Lei Geral de Proteção de Dados.md",
+    "README.md",
+    "Untitled.md"
   ]
 }
