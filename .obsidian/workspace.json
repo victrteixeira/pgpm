@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "846029260518abc7",
+        "id": "654ff6442c2f4f52",
         "type": "tabs",
         "children": [
           {
-            "id": "91a08d9b0bf079e7",
+            "id": "a60e112d0f289263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lgpd/Lei Geral de Proteção de Dados.md",
+                "file": "Lei Geral de Proteção de Dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a1d1afb9828d6d6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lgpd/Lei Geral de Proteção de Dados.md",
+                "file": "Lei Geral de Proteção de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lgpd/Lei Geral de Proteção de Dados.md",
+                "file": "Lei Geral de Proteção de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lgpd/Lei Geral de Proteção de Dados.md"
+                "file": "Lei Geral de Proteção de Dados.md"
               }
             }
           }
@@ -146,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91a08d9b0bf079e7",
+  "active": "a60e112d0f289263",
   "lastOpenFiles": [
-    "Pasted image 20240918220343.png",
-    "lgpd/Privacidade e Proteção de Dados.md",
-    "lgpd/Lei Geral de Proteção de Dados.md",
+    "Privacidade e Proteção de Dados.md",
     "README.md",
+    "Lei Geral de Proteção de Dados.md",
+    "DPO.md",
+    "Pasted image 20240918220343.png",
+    "pepd",
     "Untitled.md"
   ]
 }

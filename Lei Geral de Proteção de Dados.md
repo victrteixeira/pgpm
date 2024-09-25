@@ -83,3 +83,41 @@
 	- Ponte de comunicação entre os titulares e da ANPD com  o controlador (É importante que o encarregado tenha liberdade na realização de suas atribuições: *autonomia*)
 	- *A identidade e as informações de contato do encarregado deverão ser divulgadas publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do controlador*
 ### Agente de Tratamento de Pequeno Porte
+- *Janeiro de 2022 foi publicada a resolução CD/ANPDn2 para aplicação da lei 13.709 da LGPD para agentes de pequeno porte. Traz **regulamentos específicos e diferenciados** comparado com as disposições originais previstas na LGPD*
+- São considerados agentes de tratamento de pequeno porte:
+	- microempresas;
+	- empresas de pequeno porte;
+	- startups;
+	- pessoas jurídicas de direito privado, inclusive sem fins lucrativos, nos termos da legislação vigente;
+	- pessoas naturais e entes privados despersonalizados que realizam tratamento de dados pessoais **assumindo obrigações típicas de controlador ou de operador. Desde que não enquadrem nas eventuais exclusões da Resolução**
+#### Excludentes
+- O agente de tratamento não poderá se beneficiar do tratamento jurídico diferenciado previsto na resolução se:
+- **Realizar tratamento de alto risco para os titulares**
+	- *Veja na subseção a frente*
+- **Receita Bruta Superior**
+	- Auferir receita bruta superior ao limite estabelecido no art.3, II, da Lei Complementar n.123, de 2006.
+	- No caso de startups, no art.4, $1, I, da Lei Complementar n.182, de 2021.
+- **Receita Global Superior**
+	- Pertencer a um grupo econômico de fato ou de direito, cuja receita global ultrapasse os limites referidos, conforme o caso.
+##### Tratamento de Alto Risco
+- Critério Específico + Critério Geral
+- **Critério Geral**
+	- *Realizar Tratamento em Larga Escala*
+	- *Afetar, significativamente, interesses e direitos fundamentais do titular*
+- **Critério Específico**
+	- *Realizar o uso de tecnologias emergentes ou inovadoras;*
+	- Tratar dados para fins de vigilância ou controle de zonas acessíveis ao público; ou
+	- Tratar dados com base em decisões tomadas unicamente com base em tratamento automatizado de dados pessoais, inclusive aquelas destinadas a definir o perfil pessoal, profissional, de saúde, de consumo e de crédito ou os aspectos da personalidade do titular; ou
+	- Tratar dados sensíveis ou de dados pessoais de crianças, de adolescentes e idosos.
+#### Regras Comuns à LGPD
+- Segundo a resolução compete ao agente de tratamento de pequeno porte
+	- Atribuir base legal para legitimar o tratamento dos dados pessoais, ordinários ou sensíveis;
+	- Respeitar os princípios previstos no artigo 6 da LGPD;
+	- Respeitar o direito dos titulares;
+	- Realizar a elaboração e a manutenção dos registro de tratamento de dados pessoais conforme preconiza o artigo 37 da LGPD; e
+	- Respeitar os demais dispositivos da LGDP não previstos na resolução
+#### Regras Específicas da Resolução
+- A ANPD flexibilizará ou terá procedimento simplificado de comunicação de incidente de segurança
+- É dispensada a obrigatoriedade do Agente de Tratamento de Pequeno Porte indicar um [[#Encarregado de Dados Pessoais (DPO)|DPO]]. Porém, deverá disponibilizar um canal de comunicação com o titular de dados para que possa receber reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências.
+- Podem estabelecer política simplificada de segurança da informação
+- Todos os prazos concedidos serão contabilizados em dobro
